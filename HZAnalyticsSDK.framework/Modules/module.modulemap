@@ -1,0 +1,6 @@
+framework module HZAnalyticsSDK {
+  umbrella header "HZAnalyticsSDK.h"
+
+  export *
+  module * { export * }
+}
